@@ -43,7 +43,7 @@
                         break;
                     default:
                         Console.WriteLine("Ogitligt svårighetsgrad!");
-                        return;
+                        continue;
 
                 }
 
